@@ -1,2 +1,2 @@
 # CSCI225
-Local Site of all current assignments and Homework for Web Development.
+Local Site of all current assignments and Homework for Web Development, as well as practice.
